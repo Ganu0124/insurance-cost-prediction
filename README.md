@@ -278,7 +278,7 @@ insurance-cost-prediction-ml/
 
 ## Conclusion
 
-This project successfully demonstrates the application of machine learning techniques for predicting medical insurance charges. Multiple regression models were trained and compared, with the Tuned Random Forest Regressor providing the best predictive performance. The project highlights the importance of feature engineering, model optimization, and evaluation techniques in building accurate predictive analytics solutions.
+This project successfully demonstrates the application of machine learning techniques for predicting medical insurance charges. Multiple regression models were trained and compared, with the Tuned Random Forest Regressor providing the best predictive performance. The project highlights the importance of feature engineering, model optimization, and evaluation techniques in building accurate predictive analytics solutions .
 
 ---
 
