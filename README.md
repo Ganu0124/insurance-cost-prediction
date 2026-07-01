@@ -1,4 +1,4 @@
-# 🏥 Predict Insurance Charges Using Machine Learning
+# 🏥 Predict Insurance Charges 
 
 ## Overview
 
